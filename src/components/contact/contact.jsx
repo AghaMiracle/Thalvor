@@ -34,6 +34,7 @@ const contact = () => {
                <ul>
                 <li>📧 aghamiracle123@gmail.com</li>
                 <li>☎️ (+234)916-079-5546</li>
+                <li><a href="https://github.com/AghaMiracle">Github</a></li>
                 </ul> 
             </div>
             <div className='contact-col'>
