@@ -59,7 +59,7 @@ const portfolio = () => {
 
         <Section title=" SOME TECHNOLOGIES">
           <ul className="list">
-            <li>HTML · CSS · JAVASCRIPT</li>
+            <li>HTML · CSS ·TAILWIND CSS· JAVASCRIPT</li>
             <li>REACT.JS · NODE.JS · EXPRESS</li>
             <li>POSTGRE-SQL · SQL · MONGO DB</li>
             <li>WINDOWS · LINUX · MAC OS</li>
