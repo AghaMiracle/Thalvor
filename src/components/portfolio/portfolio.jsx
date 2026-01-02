@@ -20,6 +20,7 @@ const portfolio = () => {
           <Skill name="English" level="98%" />
           <Skill name="Igbo" level="95%" />
           <Skill name="Japanese" level="15%" />
+          <Skill name="German" level="5%" />
         </Section>
 
         <Section title="PERSONAL SKILLS">
@@ -56,6 +57,16 @@ const portfolio = () => {
           />
         </Section>
 
+        <Section title=" SOME TECHNOLOGIES">
+          <ul className="list">
+            <li>HTML · CSS · JAVASCRIPT</li>
+            <li>REACT.JS · NODE.JS · EXPRESS</li>
+            <li>POSTGRE-SQL · SQL · MONGO DB</li>
+            <li>WINDOWS · LINUX · MAC OS</li>
+            <li>GIT · GITHUB </li>
+          </ul>
+        </Section>
+
         <Section title="EDUCATION">
           <p className="text">
             BSc. in Computer Science <br />
@@ -81,13 +92,6 @@ const portfolio = () => {
           </ul>
         </Section>
 
-        {/* <Section title="DESIGN SKILLS">
-          <ul className="list">
-            <li>Creativity · Planning · Strategy</li>
-            <li>Sketch & Typography · Layout</li>
-            <li>Grid · Color Sense · Inspiration</li>
-          </ul>
-        </Section> */}
 
         <Section title="HOBBIES & INTERESTS">
           <div className="icons">
