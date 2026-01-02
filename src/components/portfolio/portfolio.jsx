@@ -24,7 +24,7 @@ const portfolio = () => {
         </Section>
 
         <Section title="PERSONAL SKILLS">
-          <p className="text">Creativity · Team Work · Organisation</p>
+          <p className="text">Creativity · Team Work · Organisation · Tutoring</p>
         </Section>
       </div>
 
